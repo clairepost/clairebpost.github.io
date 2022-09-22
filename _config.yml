@@ -23,9 +23,9 @@ description: Professional Website with my Projects!
     
     
     <script type="application/ld+json">{
-		"@context": "http://schema.org",
-		"@type": "Organization",
-		"name": "Claire Benet Post"
+"@context": "http://schema.org",
+"@type": "Organization",
+"name": "Claire Benet Post"
 }</script>
     <meta name="theme-color" content="#0072ff">
     <meta property="og:title" content="Home">
