@@ -23,9 +23,9 @@ description: Professional Website with my Projects!
     
     
     <script type="application/ld+json">{
-"@context": "http://schema.org",
-"@type": "Organization",
-"name": "Claire Benet Post"
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Claire Benet Post"
 }</script>
     <meta name="theme-color" content="#0072ff">
     <meta property="og:title" content="Home">
@@ -246,8 +246,8 @@ description: Professional Website with my Projects!
         <div class="u-shape u-shape-svg u-text-palette-4-light-3 u-shape-3">
           <svg class="u-svg-link" preserveAspectRatio="none" viewBox="0 0 160 130" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-f916"></use></svg>
           <svg class="u-svg-content" viewBox="0 0 160 130" x="0px" y="0px" id="svg-f916" style="enable-background:new 0 0 160 130;"><path d="M141.6,99.5c0.3-0.5,0.6-0.9,0.9-1.4c11.8-19.2,26.1-51.9,10.8-73.1C137.2,2.7,104.7-1.6,80.9,0.5
-	C57.8,2.6,35.2,12.2,16.8,28.2C4,39.3-10.7,68.6,11.4,78.1c13.6,5.8,26.8,13,38.5,22.7c12,10,20.6,22.9,35.7,27.5
-	C108.6,135.2,128.6,119.9,141.6,99.5L141.6,99.5z"></path></svg>
+	  C57.8,2.6,35.2,12.2,16.8,28.2C4,39.3-10.7,68.6,11.4,78.1c13.6,5.8,26.8,13,38.5,22.7c12,10,20.6,22.9,35.7,27.5
+	  C108.6,135.2,128.6,119.9,141.6,99.5L141.6,99.5z"></path></svg>
         </div>
       </div>
       
